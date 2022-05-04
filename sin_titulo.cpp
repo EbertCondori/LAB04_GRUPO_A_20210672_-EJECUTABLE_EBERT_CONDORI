@@ -2,32 +2,6 @@
 using namespace std;
 
 
-/*
-2.
-int main(){
-	
-	int vector[8];
-	int b;
-	int aux;
-	cout<<"ingrese 8 numeros : ";
-	for(int i=0;i<8;i++){
-		cin>>vector[i];
-	}
-	cout<<"numero a buscar :"<<endl;
-	cin>>b;
-	
-	for(int i=0;i<8;i++){
-		if(vector[i]==b)
-			aux=1;
-	}
-	if(aux==1)
-		cout<<"true";
-	else
-		cout<<"false";
-}
-
-*/
-
 
 /*
 1.
@@ -72,6 +46,34 @@ int main(){
 
 
 /*
+2.
+int main(){
+	
+	int vector[8];
+	int b;
+	int aux;
+	cout<<"ingrese 8 numeros : ";
+	for(int i=0;i<8;i++){
+		cin>>vector[i];
+	}
+	cout<<"numero a buscar :"<<endl;
+	cin>>b;
+	
+	for(int i=0;i<8;i++){
+		if(vector[i]==b)
+			aux=1;
+	}
+	if(aux==1)
+		cout<<"true";
+	else
+		cout<<"false";
+}
+
+*/
+
+
+/*
+3.
 int main(){
 	int a[5][3];
 	int b=0;
@@ -104,7 +106,7 @@ int main(){
 
 
 /*
-
+4.
 int divi(int a){
 	int cont;
 	int b=0;
@@ -139,7 +141,7 @@ int main(){
 	
 }
 */
-
+5.
 
 
 #include "stdio.h"
@@ -250,6 +252,7 @@ int main(){
 
 
 /*
+6.
 int main(){
 	int a[3][3];
 	int aux;
